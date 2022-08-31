@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\bin\Debug\net6.0\CSharpStatements_01.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\bin\Debug\net6.0\CSharpStatements_01.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\bin\Debug\net6.0\CSharpStatements_01.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\bin\Debug\net6.0\CSharpStatements_01.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\bin\Debug\net6.0\CSharpStatements_01.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\refint\CSharpStatements_01.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\CSharpStatements_01.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CSharpStatements_01\obj\Debug\net6.0\ref\CSharpStatements_01.dll
