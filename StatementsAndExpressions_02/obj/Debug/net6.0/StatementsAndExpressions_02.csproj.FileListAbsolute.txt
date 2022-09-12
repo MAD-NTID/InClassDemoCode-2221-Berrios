@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\bin\Debug\net6.0\StatementsAndExpressions_02.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\bin\Debug\net6.0\StatementsAndExpressions_02.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\bin\Debug\net6.0\StatementsAndExpressions_02.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\bin\Debug\net6.0\StatementsAndExpressions_02.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\bin\Debug\net6.0\StatementsAndExpressions_02.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\refint\StatementsAndExpressions_02.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\StatementsAndExpressions_02.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\StatementsAndExpressions_02\obj\Debug\net6.0\ref\StatementsAndExpressions_02.dll

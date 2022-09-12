@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\bin\Debug\net6.0\ConsoleStuffInputsVariables_03.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\bin\Debug\net6.0\ConsoleStuffInputsVariables_03.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\bin\Debug\net6.0\ConsoleStuffInputsVariables_03.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\bin\Debug\net6.0\ConsoleStuffInputsVariables_03.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\bin\Debug\net6.0\ConsoleStuffInputsVariables_03.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\refint\ConsoleStuffInputsVariables_03.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ConsoleStuffInputsVariables_03.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConsoleStuffInputsVariables_03\obj\Debug\net6.0\ref\ConsoleStuffInputsVariables_03.dll

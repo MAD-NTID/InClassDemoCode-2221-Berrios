@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\bin\Debug\net6.0\CastingConstantSimpleInput.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\bin\Debug\net6.0\CastingConstantSimpleInput.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\bin\Debug\net6.0\CastingConstantSimpleInput.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\bin\Debug\net6.0\CastingConstantSimpleInput.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\bin\Debug\net6.0\CastingConstantSimpleInput.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\refint\CastingConstantSimpleInput.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\CastingConstantSimpleInput.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CastingConstantSimpleInput\obj\Debug\net6.0\ref\CastingConstantSimpleInput.dll

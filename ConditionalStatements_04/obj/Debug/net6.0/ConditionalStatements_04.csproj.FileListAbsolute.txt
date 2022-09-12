@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\bin\Debug\net6.0\ConditionalStatements_04.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\bin\Debug\net6.0\ConditionalStatements_04.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\bin\Debug\net6.0\ConditionalStatements_04.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\bin\Debug\net6.0\ConditionalStatements_04.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\bin\Debug\net6.0\ConditionalStatements_04.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\refint\ConditionalStatements_04.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ConditionalStatements_04.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\ConditionalStatements_04\obj\Debug\net6.0\ref\ConditionalStatements_04.dll
