@@ -79,6 +79,9 @@ Console.Write("Enter a color: ");
 //  Use the to lower method to lowercase the user's input
 string colorInput = Console.ReadLine().ToLower();
 
+//  if the user enters any of the answers below, the condition will be met (therefore true)
+//  At least one match has to be true
+//  when we do comparison like "red" == "red" this true, boolean data type
 if(colorInput == "red" || colorInput == "blue" || colorInput == "black" || colorInput == "orange") 
 {
     Console.WriteLine("You belong to group #1");
