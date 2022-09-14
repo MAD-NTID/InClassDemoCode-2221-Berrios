@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\bin\Debug\net6.0\CarSalesCommission.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\bin\Debug\net6.0\CarSalesCommission.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\bin\Debug\net6.0\CarSalesCommission.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\bin\Debug\net6.0\CarSalesCommission.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\bin\Debug\net6.0\CarSalesCommission.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\refint\CarSalesCommission.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\CarSalesCommission.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\CarSalesCommission\obj\Debug\net6.0\ref\CarSalesCommission.dll
