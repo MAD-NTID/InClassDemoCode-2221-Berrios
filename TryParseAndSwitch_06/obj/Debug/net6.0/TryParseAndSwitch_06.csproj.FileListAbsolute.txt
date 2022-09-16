@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\bin\Debug\net6.0\TryParseAndSwitch_06.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\bin\Debug\net6.0\TryParseAndSwitch_06.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\bin\Debug\net6.0\TryParseAndSwitch_06.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\bin\Debug\net6.0\TryParseAndSwitch_06.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\bin\Debug\net6.0\TryParseAndSwitch_06.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\refint\TryParseAndSwitch_06.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\TryParseAndSwitch_06.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\TryParseAndSwitch_06\obj\Debug\net6.0\ref\TryParseAndSwitch_06.dll
