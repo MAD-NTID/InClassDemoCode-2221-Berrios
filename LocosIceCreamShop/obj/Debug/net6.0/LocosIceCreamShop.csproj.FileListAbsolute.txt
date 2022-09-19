@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\bin\Debug\net6.0\LocosIceCreamShop.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\bin\Debug\net6.0\LocosIceCreamShop.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\bin\Debug\net6.0\LocosIceCreamShop.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\bin\Debug\net6.0\LocosIceCreamShop.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\bin\Debug\net6.0\LocosIceCreamShop.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\refint\LocosIceCreamShop.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\LocosIceCreamShop.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\LocosIceCreamShop\obj\Debug\net6.0\ref\LocosIceCreamShop.dll
