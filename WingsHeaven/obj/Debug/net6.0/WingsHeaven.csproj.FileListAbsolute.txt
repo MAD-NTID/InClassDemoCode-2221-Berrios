@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\bin\Debug\net6.0\WingsHeaven.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\bin\Debug\net6.0\WingsHeaven.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\bin\Debug\net6.0\WingsHeaven.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\bin\Debug\net6.0\WingsHeaven.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\bin\Debug\net6.0\WingsHeaven.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\refint\WingsHeaven.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\WingsHeaven.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\WingsHeaven\obj\Debug\net6.0\ref\WingsHeaven.dll
