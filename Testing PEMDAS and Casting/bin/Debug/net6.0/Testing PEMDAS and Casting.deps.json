@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Testing PEMDAS and Casting/1.0.0": {
+        "runtime": {
+          "Testing PEMDAS and Casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing PEMDAS and Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

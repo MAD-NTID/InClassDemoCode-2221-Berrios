@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\bin\Debug\net6.0\Testing PEMDAS and Casting.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\bin\Debug\net6.0\Testing PEMDAS and Casting.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\bin\Debug\net6.0\Testing PEMDAS and Casting.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\bin\Debug\net6.0\Testing PEMDAS and Casting.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\bin\Debug\net6.0\Testing PEMDAS and Casting.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\refint\Testing PEMDAS and Casting.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\Testing PEMDAS and Casting.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\Testing PEMDAS and Casting\obj\Debug\net6.0\ref\Testing PEMDAS and Casting.dll
