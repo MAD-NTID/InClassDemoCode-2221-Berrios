@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\bin\Debug\net6.0\SwapMeet.exe
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\bin\Debug\net6.0\SwapMeet.deps.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\bin\Debug\net6.0\SwapMeet.runtimeconfig.json
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\bin\Debug\net6.0\SwapMeet.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\bin\Debug\net6.0\SwapMeet.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.csproj.AssemblyReference.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\refint\SwapMeet.dll
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.pdb
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\SwapMeet.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\PF1\InClassDemoCode-2221-Berrios\SwapMeet\obj\Debug\net6.0\ref\SwapMeet.dll
