@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\CSharpStatements_01\\CSharpStatements_01.csproj",
-      "projectName": "CSharpStatements_01",
-      "projectPath": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\CSharpStatements_01\\CSharpStatements_01.csproj",
+      "projectUniqueName": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\ArraysAndStrings_08\\ArraysAndStrings_08.csproj",
+      "projectName": "ArraysAndStrings_08",
+      "projectPath": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\ArraysAndStrings_08\\ArraysAndStrings_08.csproj",
       "packagesPath": "C:\\Users\\mxbics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\CSharpStatements_01\\obj\\",
+      "outputPath": "C:\\Users\\mxbics\\Desktop\\PF1\\InClassDemoCode-2221-Berrios\\ArraysAndStrings_08\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
