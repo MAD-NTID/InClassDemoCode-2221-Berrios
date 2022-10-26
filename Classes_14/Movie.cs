@@ -96,8 +96,6 @@ public class Movie
         set {
             if(value >= MOVIE_YEAR_VALIDATION && value <= DateTime.Now.Year)
                 year = value;
-            else
-                year = MOVIE_YEAR_VALIDATION;
         }
 
         get {
@@ -124,6 +122,13 @@ public class Movie
 
         get {
             return timerun;
+        }
+    }
+
+    public bool TimeRunIsValid
+    {
+        get {
+            return timerun > 0;
         }
     }
 
