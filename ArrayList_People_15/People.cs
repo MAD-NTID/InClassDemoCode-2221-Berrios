@@ -36,11 +36,16 @@ public class People
     //  Edit
     public bool Edit(string name, Person edited)
     {
-        if(this.Exists(name))
-        {
-            Person personToEdit = Find(name);
+        Person person = Find(name);
 
-            people[personToEdit] = edited;
+        if(person != null)    
+        {
+            //  This should work but it's not working.... hold on to this
+            //people[person] = edited;
+
+            //  Let's instead get the index where this object is located
+            int index = people.IndexOf(person);
+            people[index] = edited;
 
             return true;
         }
@@ -50,6 +55,16 @@ public class People
 
 
     //  Find
+    public Person Find(Person person)
+    {
+        int index = people.IndexOf(person);
+
+        if(index > -1)
+            return people[index];
+
+        return null; 
+    }
+
     public Person Find(string name)
     {
         foreach(Person person in people)
@@ -71,7 +86,23 @@ public class People
         return false;
     }
 
+    public bool Exists(string name)
+    {
+        Person person = Find(name);
+
+        return person != null;
+    }
+
     //  Count
+    public int Count()
+    {
+        return people.Count;
+    }
+
+    public void Clear()
+    {
+        people = new List<Person>();
+    }
 
     public override string ToString()
     {
