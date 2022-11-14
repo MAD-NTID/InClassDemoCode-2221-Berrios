@@ -124,6 +124,10 @@ while(true)
     {
         Console.WriteLine($"{doggies.Count} dogs found");
 
+        /**
+            When you do a foreach and you would like to get the properties from the object, you must first get the 'Value' from the keyed dictionary.
+            The 'Value' is the Dog object in this case because the dictionary declaration is Dictionary<string, Dog> || Dictionary<key, value>
+        **/
         foreach(KeyValuePair<string, Dog> dog in doggies)
             Console.WriteLine($"ID: {dog.Value.Id}\nName: {dog.Value.Name} - Breed: {dog.Value.Breed}\n");
     }
