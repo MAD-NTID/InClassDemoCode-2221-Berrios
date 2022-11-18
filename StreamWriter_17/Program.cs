@@ -18,6 +18,22 @@ if(File.Exists(filename))
     {
         //  This means that the user does not wish to overwrite the file
         Console.WriteLine("Did not overwrite file");
+
+        Console.Write("Do you want to append to the file (y/n)? ");
+        string append = Console.ReadLine();
+
+        if(!string.IsNullOrEmpty(append) && append.ToLower() == "y")
+        {
+            AppendToFile(filename);
+        }
+        else if(!string.IsNullOrEmpty(append) && append.ToLower() == "n")
+        {
+            Console.WriteLine("Did not append to file");
+        }
+        else
+        {
+            Console.WriteLine("Invalid option");
+        }
     }
     else
     {
@@ -35,13 +51,32 @@ void WriteToFile(string filename)
 {
     StreamWriter writer = new(filename);
 
-    Console.Write("What is your name? ");
-    writer.WriteLine(Console.ReadLine());
-
-    Console.Write("What is your age? ");
-    writer.WriteLine(Console.ReadLine());
-
     writer.Close();
 
+    AppendToFile(filename);
+
     Console.WriteLine($"You are done writing to {filename}");
+}
+
+void AppendToFile(string filename)
+{
+    StreamWriter writer = File.AppendText(filename);
+
+    Console.WriteLine("Enter the text that you wish to append to the file (enter x to exit)");
+
+    while(true)
+    {
+        Console.Write(">>> ");
+
+        string input = Console.ReadLine();
+
+        if(!string.IsNullOrEmpty(input) && input.ToLower() == "x")
+        {
+            break;
+        }
+
+        writer.WriteLine(input);
+    }
+
+    writer.Close();
 }
