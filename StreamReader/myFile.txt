@@ -1,0 +1,2 @@
+Now I can start writing to a fresh .txt file from the beginning.
+I removed the old questions about name and age
